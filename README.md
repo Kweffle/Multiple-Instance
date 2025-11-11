@@ -31,6 +31,8 @@ This tool is for educational and testing purposes only.
 Running multiple Roblox instances may violate Roblox’s TOS.
 Use responsibly — I am not responsible for any bans, warnings, or account actions.
 
+Some antivirus programs **may flag this tool as suspicious**. It's a FALSE Positive! It's due to the tool's need to manipulate process handles in order for it to allow multiple roblox instances. The source code is fully visible and auditable. You may need to add an exclusion in your antivirus.
+
 ## 🧑‍💻 Contributing
 It's open source, make any changes or adjustments that you want, if you do release a version of it to the public, 
 please credit me!
